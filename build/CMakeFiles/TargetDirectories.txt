@@ -1,0 +1,4 @@
+C:/Users/neoke/OneDrive/Рабочий стол/lab2/build/CMakeFiles/Calculator.dir
+C:/Users/neoke/OneDrive/Рабочий стол/lab2/build/CMakeFiles/run.dir
+C:/Users/neoke/OneDrive/Рабочий стол/lab2/build/CMakeFiles/edit_cache.dir
+C:/Users/neoke/OneDrive/Рабочий стол/lab2/build/CMakeFiles/rebuild_cache.dir
